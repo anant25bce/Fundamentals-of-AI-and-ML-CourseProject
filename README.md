@@ -26,8 +26,8 @@ Detects skills from resume
 Suggests missing skills
 
 # How to run
-pip install scikit-learn nltk
-python Resume_Analyzer.py
+- pip install scikit-learn nltk
+- python Resume_Analyzer.py
 
 # Learning Outcome
 This project helped me understand the basics of Natural Language Processing, text classification, and how machine learning can be applied to real-world problems like resume screening.
